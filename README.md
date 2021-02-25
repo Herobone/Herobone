@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm a student from beautiful Bavaria in Germany. Currently I am learning for my Abitur and coding on some small projects.
+Im a small freelancing Software Developer, mainly focused on Web-Development
 
 - 🔭 I’m currently working on [Sober Sailor](https://github.com/Herobone/Sober-Sailor) and [Cloud Craft](https://github.com/Herobone/CloudCraft)
 - 🌱 I’m currently learning for my Abitur 🙁
