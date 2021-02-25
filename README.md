@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [Sober Sailor](https://github.com/Herobone/Sober-Sailor) and [Cloud Craft](https://github.com/Herobone/CloudCraft)
+- 🌱 I’m currently learning for my Abitur 🙁
+- 💬 Ask me about **React, Go, GCP, Firebase**
+- ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#5](https://github.com/itzg/mc-monitor/pull/5) in [itzg/mc-monitor](https://github.com/itzg/mc-monitor)
 2. 🗣 Commented on [#4](https://github.com/itzg/mc-monitor/issues/4) in [itzg/mc-monitor](https://github.com/itzg/mc-monitor)
@@ -8,17 +13,4 @@
 5. 🎉 Merged PR [#93](https://github.com/Herobone/Sober-Sailor/pull/93) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
 
-<!--
-**Herobone/Herobone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Herobone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herobone&show_icons=true&theme=dark)
