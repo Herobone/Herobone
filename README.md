@@ -15,6 +15,11 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development
 4. 🗣 Commented on [#95](https://github.com/Herobone/Sober-Sailor/issues/95) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 5. 🎉 Merged PR [#96](https://github.com/Herobone/Sober-Sailor/pull/96) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
+## Why GNU GPLv3?
+I license almost all of my work under the GNU General Public License v3 because it's a great open source license. It prevents the redistribution of the wor under a more closed license or even without source code.
+
+Yes, the license is somehow restricvtive, BUT I learn by looking ath other examples of open source code. And the worst thing would be if future generations of Developers could not learn from our code. So this license helps to preserve the openness of code and prevents proprietary redistribution.
+
 ## My GitHub stats
 ![Herobone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herobone&show_icons=true&theme=solarized-dark)
 ![](https://raw.githubusercontent.com/Herobone/Herobone/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
