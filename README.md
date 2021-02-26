@@ -9,11 +9,11 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](https://github.com/Herobone/Sober-Sailor/pull/98) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-2. 💪 Opened PR [#5](https://github.com/itzg/mc-monitor/pull/5) in [itzg/mc-monitor](https://github.com/itzg/mc-monitor)
-3. 🗣 Commented on [#4](https://github.com/itzg/mc-monitor/issues/4) in [itzg/mc-monitor](https://github.com/itzg/mc-monitor)
-4. 🎉 Merged PR [#71](https://github.com/Herobone/Sober-Sailor/pull/71) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-5. 🎉 Merged PR [#94](https://github.com/Herobone/Sober-Sailor/pull/94) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. 🗣 Commented on [#99](https://github.com/Herobone/Sober-Sailor/issues/99) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+2. ❗️ Opened issue [#99](https://github.com/Herobone/Sober-Sailor/issues/99) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+3. 🗣 Commented on [#95](https://github.com/Herobone/Sober-Sailor/issues/95) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+4. 🎉 Merged PR [#96](https://github.com/Herobone/Sober-Sailor/pull/96) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+5. ❗️ Closed issue [#34](https://github.com/Herobone/Sober-Sailor/issues/34) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
 ## My GitHub stats
 ![Herobone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herobone&show_icons=true&theme=solarized-dark)
