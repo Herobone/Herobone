@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm a student from beautiful Bavaria in Germany. Currently I am learning for my Abitur and coding on some small projects.
+I'm a student from beautiful Bavaria in Germany. I recently finished my Abitur and will come back to programming soon.
 
-I'm a small freelancing Software Developer, mainly focused on Web-Development
+I'm a small freelancing Software Developer, mainly focused on Web-Development. If you want me to design a Website for you or need consulting for networking or similar topics, feel free to contact me!
 
-- 🔭 I’m currently working on [Sober Sailor](https://github.com/Herobone/Sober-Sailor) and [Cloud Craft](https://github.com/Herobone/CloudCraft)
-- 🌱 I’m currently learning for my Abitur 🙁
+- 🔭 I’m currently working on [Sober Sailor](https://github.com/Herobone/Sober-Sailor) a [Robot](https://mai-robotics.de)
+- 🌱 I’m currently learning how hot it can be in my room and flying drones
 - 💬 Ask me about **React, Go, GCP, Firebase**
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
@@ -15,6 +15,14 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development
 4. 🎉 Merged PR [#200](https://github.com/Herobone/Sober-Sailor/pull/200) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 5. 🎉 Merged PR [#207](https://github.com/Herobone/Sober-Sailor/pull/207) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
+## Do something good while shopping on Amazon:
+If you want to support non-profit organizations without donating directly to them, then use Amazon Smile.
+Amazon will donate a small amount of your purchase to an organisation of your choosing. It's not much but everything helps, and Amazon definitely has enough money 😉
+Try it now on:
+- Germany: [smile.amazon.de](smile.amazon.de)
+- US: [smile.amazon.com](smile.amazon.com)
+- UK: [smile.amazon.co.uk](smile.amazon.co.uk)
+
 ## Why GNU GPLv3?
 I license almost all of my work under the GNU General Public License v3 because it's a great open source license. It prevents the redistribution of the wor under a more closed license or even without source code.
 
