@@ -9,11 +9,11 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development. I
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/Herobone/Speedport-Utils/issues/3) in [Herobone/Speedport-Utils](https://github.com/Herobone/Speedport-Utils)
-2. 🗣 Commented on [#3](https://github.com/Herobone/Speedport-Utils/issues/3) in [Herobone/Speedport-Utils](https://github.com/Herobone/Speedport-Utils)
-3. 🎉 Merged PR [#208](https://github.com/Herobone/Sober-Sailor/pull/208) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-4. 🎉 Merged PR [#199](https://github.com/Herobone/Sober-Sailor/pull/199) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-5. 🎉 Merged PR [#210](https://github.com/Herobone/Sober-Sailor/pull/210) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. 🎉 Merged PR [#211](https://github.com/Herobone/Sober-Sailor/pull/211) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+2. 💪 Opened PR [#211](https://github.com/Herobone/Sober-Sailor/pull/211) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+3. ❗️ Closed issue [#3](https://github.com/Herobone/Speedport-Utils/issues/3) in [Herobone/Speedport-Utils](https://github.com/Herobone/Speedport-Utils)
+4. 🗣 Commented on [#3](https://github.com/Herobone/Speedport-Utils/issues/3) in [Herobone/Speedport-Utils](https://github.com/Herobone/Speedport-Utils)
+5. 🎉 Merged PR [#208](https://github.com/Herobone/Sober-Sailor/pull/208) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
 ## Do something good while shopping on Amazon:
 If you want to support non-profit organizations without donating directly to them, then use Amazon Smile.
