@@ -9,11 +9,11 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development. I
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#253](https://github.com/Herobone/Sober-Sailor/pull/253) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-2. 🗣 Commented on [#267](https://github.com/Herobone/Sober-Sailor/issues/267) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-3. 🎉 Merged PR [#274](https://github.com/Herobone/Sober-Sailor/pull/274) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-4. 💪 Opened PR [#274](https://github.com/Herobone/Sober-Sailor/pull/274) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-5. 🎉 Merged PR [#272](https://github.com/Herobone/Sober-Sailor/pull/272) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. 🎉 Merged PR [#276](https://github.com/Herobone/Sober-Sailor/pull/276) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+2. 🎉 Merged PR [#253](https://github.com/Herobone/Sober-Sailor/pull/253) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+3. 🗣 Commented on [#267](https://github.com/Herobone/Sober-Sailor/issues/267) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+4. 🎉 Merged PR [#274](https://github.com/Herobone/Sober-Sailor/pull/274) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+5. 💪 Opened PR [#274](https://github.com/Herobone/Sober-Sailor/pull/274) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
 ## Do something good while shopping on Amazon:
 If you want to support non-profit organizations without donating directly to them, then use Amazon Smile.
