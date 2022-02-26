@@ -9,7 +9,7 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development. I
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#320](https://github.com/Herobone/Sober-Sailor/issues/320) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. 🗣 Commented on [#392](https://github.com/Herobone/Sober-Sailor/issues/392) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 2. 🗣 Commented on [#336](https://github.com/Herobone/Sober-Sailor/issues/336) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 3. 🗣 Commented on [#312](https://github.com/Herobone/Sober-Sailor/issues/312) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 4. 🗣 Commented on [#331](https://github.com/Herobone/Sober-Sailor/issues/331) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
