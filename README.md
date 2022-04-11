@@ -9,11 +9,11 @@ I'm a small freelancing Software Developer, mainly focused on Web-Development. I
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#392](https://github.com/Herobone/Sober-Sailor/issues/392) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-2. 🗣 Commented on [#336](https://github.com/Herobone/Sober-Sailor/issues/336) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-3. 🗣 Commented on [#312](https://github.com/Herobone/Sober-Sailor/issues/312) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-4. 🗣 Commented on [#331](https://github.com/Herobone/Sober-Sailor/issues/331) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-5. 🗣 Commented on [#334](https://github.com/Herobone/Sober-Sailor/issues/334) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. 🗣 Commented on [#416](https://github.com/Herobone/Sober-Sailor/issues/416) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+2. 🗣 Commented on [#415](https://github.com/Herobone/Sober-Sailor/issues/415) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+3. 🗣 Commented on [#299](https://github.com/Herobone/Sober-Sailor/issues/299) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+4. 🗣 Commented on [#395](https://github.com/Herobone/Sober-Sailor/issues/395) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+5. 🗣 Commented on [#411](https://github.com/Herobone/Sober-Sailor/issues/411) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 <!--END_SECTION:activity-->
 ## Do something good while shopping on Amazon:
 If you want to support non-profit organizations without donating directly to them, then use Amazon Smile.
