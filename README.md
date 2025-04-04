@@ -1,10 +1,9 @@
 ### Hi there 👋
-I'm a student from beautiful Bavaria in Germany.
-I'm a small freelancing Software Developer, mainly focused on Web-Development. If you want me to design a Website for you or need consulting for networking or similar topics, feel free to contact me!
+I'm Julius, a student from beautiful Bavaria in Germany.
 
-- 🔭 I’m currently working on no public Projects :(
-- 🌱 I’m currently learning Vue, Socket.IO
-- 💬 Ask me about **C#, Go, TypeScript**
+- 🔭 I’m currently working on [Stream Scorer](https://github.com/Herobone/stream-scorer) and [my Homelab](https://github.com/Herobone/homelab-kubernetes)
+- 🌱 I’m currently learning Kubernetes
+- 💬 Ask me about **Go, TypeScript, Svelte**
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--START_SECTION:activity-->
