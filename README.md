@@ -7,11 +7,11 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🗣 Commented on [#577](https://github.com/Herobone/Sober-Sailor/issues/577) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-2. 🗣 Commented on [#503](https://github.com/Herobone/Sober-Sailor/issues/503) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-3. 🎉 Merged PR [#439](https://github.com/Herobone/Sober-Sailor/pull/439) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-4. 💪 Opened PR [#439](https://github.com/Herobone/Sober-Sailor/pull/439) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-5. 🗣 Commented on [#416](https://github.com/Herobone/Sober-Sailor/issues/416) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
+1. ⬆️ Pushed 1 commit(s) to [Herobone/Herobone](https://github.com/Herobone/Herobone)<br>
+2. ⬆️ Pushed 1 commit(s) to [Herobone/Herobone](https://github.com/Herobone/Herobone)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+4. ⭐ Starred [cilium/cilium](https://github.com/cilium/cilium)<br>
+5. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
