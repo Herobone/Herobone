@@ -6,13 +6,13 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - 💬 Ask me about **Go, TypeScript, Svelte**
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 1. 🗣 Commented on [#577](https://github.com/Herobone/Sober-Sailor/issues/577) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 2. 🗣 Commented on [#503](https://github.com/Herobone/Sober-Sailor/issues/503) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 3. 🎉 Merged PR [#439](https://github.com/Herobone/Sober-Sailor/pull/439) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 4. 💪 Opened PR [#439](https://github.com/Herobone/Sober-Sailor/pull/439) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
 5. 🗣 Commented on [#416](https://github.com/Herobone/Sober-Sailor/issues/416) in [Herobone/Sober-Sailor](https://github.com/Herobone/Sober-Sailor)
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
 I license almost all of my work under the GNU General Public License v3 because it's a great open source license. It prevents the redistribution of the wor under a more closed license or even without source code.
