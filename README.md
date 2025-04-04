@@ -18,13 +18,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 I license almost all of my work under the GNU General Public License v3 because it's a great open source license. It prevents the redistribution of the wor under a more closed license or even without source code.
 
 Yes, the license is somehow restricvtive, BUT I learn by looking ath other examples of open source code. And the worst thing would be if future generations of Developers could not learn from our code. So this license helps to preserve the openness of code and prevents proprietary redistribution.
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Herobone&theme=darkhub&no-frame=true&margin-w=4" alt="Hoang Son's GitHub Trophies" />
-</div>
 
-## My GitHub stats
-![Herobone's GitHub stats](https://github-readme-stats.vercel.app/api?username=Herobone&show_icons=true&theme=solarized-dark)
-![](https://raw.githubusercontent.com/Herobone/Herobone/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
-## My most used Languages
-![](https://raw.githubusercontent.com/Herobone/Herobone/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/Herobone/Herobone/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herobone&theme=github_dark)
+![](https://github-profile-trophy.vercel.app/?username=Herobone&theme=darkhub&no-frame=true&margin-w=6)
