@@ -7,11 +7,11 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator)<br>
+1. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 2. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-3. ⭐ Starred [tommyxchow/frosty](https://github.com/tommyxchow/frosty)<br>
-4. ⬆️ Pushed 1 commit(s) to [Herobone/Herobone](https://github.com/Herobone/Herobone)<br>
-5. ⬆️ Pushed 1 commit(s) to [Herobone/Herobone](https://github.com/Herobone/Herobone)<br>
+3. ⬆️ Pushed 2 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+4. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+5. ⭐ Starred [mariadb-operator/mariadb-operator](https://github.com/mariadb-operator/mariadb-operator)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
