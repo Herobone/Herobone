@@ -11,7 +11,7 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 2. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 3. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 4. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-5. ⬆️ Pushed 2 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+5. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
