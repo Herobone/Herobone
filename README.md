@@ -7,10 +7,10 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript) from [sqlc-dev/sqlc-gen-typescript](https://github.com/sqlc-dev/sqlc-gen-typescript)<br>
-2. ⬆️ Pushed 1 commit(s) to [Herobone/stream-scorer](https://github.com/Herobone/stream-scorer)<br>
-3. ⭐ Starred [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)<br>
-4. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+1. ⬆️ Pushed 8 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
+2. 🔱 Forked [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript) from [sqlc-dev/sqlc-gen-typescript](https://github.com/sqlc-dev/sqlc-gen-typescript)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/stream-scorer](https://github.com/Herobone/stream-scorer)<br>
+4. ⭐ Starred [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution)<br>
 5. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
