@@ -9,9 +9,9 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 2. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
-3. ⬆️ Pushed 3 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 4. ⬆️ Pushed 3 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
-5. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
+5. ⬆️ Pushed 3 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
