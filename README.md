@@ -7,7 +7,7 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
+1. ⭐ Starred [caarlos0/env](https://github.com/caarlos0/env)<br>
 2. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 3. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 4. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
