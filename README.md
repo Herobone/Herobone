@@ -10,8 +10,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 1. 📔 Created new repository [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
 2. 💬 Commented on [#2198](https://github.com/Lothrazar/Cyclic/issues/2198#issuecomment-2839356547) in [Lothrazar/Cyclic](https://github.com/Lothrazar/Cyclic)<br>
 3. ⭐ Starred [caarlos0/env](https://github.com/caarlos0/env)<br>
-4. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
-5. ⬆️ Pushed 1 commit(s) to [Herobone/sqlc-gen-typescript](https://github.com/Herobone/sqlc-gen-typescript)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
