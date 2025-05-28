@@ -7,8 +7,11 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
-2. 💬 Commented on [#2198](https://github.com/Lothrazar/Cyclic/issues/2198#issuecomment-2839356547) in [Lothrazar/Cyclic](https://github.com/Lothrazar/Cyclic)<br>
+1. ⬆️ Pushed 35 commit(s) to [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
+2. 🎉 Merged PR [#20](https://github.com/tinf24ai1/BackgroundChangerApp/pull/20) in [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
+3. 💪 Opened PR [#20](https://github.com/tinf24ai1/BackgroundChangerApp/pull/20) in [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
+4. 📔 Created new repository [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
+5. 💬 Commented on [#2198](https://github.com/Lothrazar/Cyclic/issues/2198#issuecomment-2839356547) in [Lothrazar/Cyclic](https://github.com/Lothrazar/Cyclic)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
