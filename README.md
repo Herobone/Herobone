@@ -10,7 +10,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 1. ⬆️ Pushed 35 commit(s) to [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
 2. 🎉 Merged PR [#20](https://github.com/tinf24ai1/BackgroundChangerApp/pull/20) in [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
 3. 💪 Opened PR [#20](https://github.com/tinf24ai1/BackgroundChangerApp/pull/20) in [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
-4. 📔 Created new repository [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
