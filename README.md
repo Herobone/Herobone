@@ -9,9 +9,9 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
 2. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
-3. ⬆️ Pushed 13 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
-4. 📔 Created new repository [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
-5. ⬆️ Pushed 35 commit(s) to [tinf24ai1/BackgroundChangerApp](https://github.com/tinf24ai1/BackgroundChangerApp)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
+4. ⬆️ Pushed 13 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
+5. 📔 Created new repository [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
