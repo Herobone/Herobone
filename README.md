@@ -7,9 +7,9 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+1. ⭐ Starred [mischavandenburg/homelab](https://github.com/mischavandenburg/homelab)<br>
 2. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 4. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
 5. ⬆️ Pushed 1 commit(s) to [Herobone/PHP-Darts-Scorer](https://github.com/Herobone/PHP-Darts-Scorer)<br>
 <!--RECENT_ACTIVITY:end-->
