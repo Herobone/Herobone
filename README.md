@@ -8,10 +8,10 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-2. ⬆️ Pushed 2 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-3. 🎉 Merged PR [#10](https://github.com/Herobone/homelab-kubernetes/pull/10) in [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+2. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+3. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 4. ⬆️ Pushed 2 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-5. 🎉 Merged PR [#6](https://github.com/Herobone/homelab-kubernetes/pull/6) in [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
+5. 🎉 Merged PR [#10](https://github.com/Herobone/homelab-kubernetes/pull/10) in [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
