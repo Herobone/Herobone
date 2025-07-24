@@ -7,11 +7,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-2. 🎉 Merged PR [#13](https://github.com/Herobone/homelab-kubernetes/pull/13) in [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-3. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-4. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
-5. ⬆️ Pushed 1 commit(s) to [Herobone/homelab-kubernetes](https://github.com/Herobone/homelab-kubernetes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
