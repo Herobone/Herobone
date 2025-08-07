@@ -7,6 +7,8 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [MasturMynd/Pandoras_Box](https://github.com/MasturMynd/Pandoras_Box)<br>
+2. ⭐ Starred [oven-sh/bun](https://github.com/oven-sh/bun)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
