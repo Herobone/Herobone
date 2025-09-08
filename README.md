@@ -7,6 +7,8 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
+1. ⬆️ Pushed undefined commit(s) to [Herobone/stream-scorer](https://github.com/Herobone/stream-scorer)<br>
+2. ⬆️ Pushed undefined commit(s) to [Herobone/stream-scorer](https://github.com/Herobone/stream-scorer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
