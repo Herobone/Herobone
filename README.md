@@ -7,7 +7,8 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [l2xu/betterbahn](https://github.com/l2xu/betterbahn)<br>
+1. 🔱 Forked [Herobone/extension](https://github.com/Herobone/extension) from [OpenDyslexic/extension](https://github.com/OpenDyslexic/extension)<br>
+2. ⭐ Starred [l2xu/betterbahn](https://github.com/l2xu/betterbahn)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
