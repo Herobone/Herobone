@@ -10,8 +10,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 1. ⬆️ Pushed undefined commit(s) to [Herobone/extension](https://github.com/Herobone/extension)<br>
 2. 💪 Opened PR [#82](undefined) in [OpenDyslexic/extension](https://github.com/OpenDyslexic/extension)<br>
 3. ⬆️ Pushed undefined commit(s) to [Herobone/extension](https://github.com/Herobone/extension)<br>
-4. ⬆️ Pushed undefined commit(s) to [Herobone/extension](https://github.com/Herobone/extension)<br>
-5. ⬆️ Pushed undefined commit(s) to [Herobone/extension](https://github.com/Herobone/extension)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
