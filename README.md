@@ -8,7 +8,9 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
+2. 💪 Opened PR [#15](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+4. ⭐ Starred [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
