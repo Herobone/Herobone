@@ -7,11 +7,11 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ❗️ Opened issue [#25](https://github.com/Herobone/SliderSchrank/issues/25) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+1. 💪 Opened PR [#26](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-5. ✔️ Closed issue [#8](https://github.com/Herobone/SliderSchrank/issues/8) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+4. ✔️ Closed issue [#5](https://github.com/Herobone/SliderSchrank/issues/5) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+5. 👍 Approved [#21](https://github.com/Herobone/SliderSchrank/pull/21#pullrequestreview-3624452670) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
