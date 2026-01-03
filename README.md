@@ -8,10 +8,10 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ✔️ Closed issue [#8](https://github.com/Herobone/SliderSchrank/issues/8) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. 👍 Approved [#24](https://github.com/Herobone/SliderSchrank/pull/24#pullrequestreview-3624418115) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. ❗️ Opened issue [#25](https://github.com/Herobone/SliderSchrank/issues/25) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-5. ✔️ Closed issue [#22](https://github.com/Herobone/SliderSchrank/issues/22) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+5. ✔️ Closed issue [#8](https://github.com/Herobone/SliderSchrank/issues/8) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
