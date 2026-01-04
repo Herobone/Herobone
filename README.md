@@ -8,10 +8,10 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. 💪 Opened PR [#28](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. 💪 Opened PR [#29](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-5. 💪 Opened PR [#26](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+5. ✔️ Closed issue [#13](https://github.com/Herobone/SliderSchrank/issues/13) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
