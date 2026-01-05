@@ -8,8 +8,8 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. ✔️ Closed issue [#6](https://github.com/Herobone/SliderSchrank/issues/6) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. 👍 Approved [#27](https://github.com/Herobone/SliderSchrank/pull/27#pullrequestreview-3628275532) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 5. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
