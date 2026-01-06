@@ -8,10 +8,10 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. 💬 Commented on [#30](https://github.com/Herobone/SliderSchrank/pull/30#discussion_r2664871656) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. 💬 Commented on [#30](https://github.com/Herobone/SliderSchrank/pull/30#discussion_r2664842298) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-4. 💬 Commented on [#30](https://github.com/Herobone/SliderSchrank/pull/30#discussion_r2664836397) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-5. 💬 Commented on [#30](https://github.com/Herobone/SliderSchrank/pull/30#discussion_r2664835464) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+5. 💬 Commented on [#30](https://github.com/Herobone/SliderSchrank/pull/30#discussion_r2664871656) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
