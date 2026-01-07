@@ -7,9 +7,9 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#14](https://github.com/Herobone/SliderSchrank/issues/14) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ✔️ Closed issue [#19](https://github.com/Herobone/SliderSchrank/issues/19) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+1. 💪 Opened PR [#31](undefined) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+2. ✔️ Closed issue [#14](https://github.com/Herobone/SliderSchrank/issues/14) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
+3. ✔️ Closed issue [#19](https://github.com/Herobone/SliderSchrank/issues/19) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 4. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 5. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
