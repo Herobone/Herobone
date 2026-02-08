@@ -7,11 +7,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. 👍 Approved [#34](https://github.com/Herobone/SliderSchrank/pull/34#pullrequestreview-3640282566) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-2. ⭐ Starred [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-3. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-4. ✔️ Closed issue [#11](https://github.com/Herobone/SliderSchrank/issues/11) in [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
-5. ⬆️ Pushed undefined commit(s) to [Herobone/SliderSchrank](https://github.com/Herobone/SliderSchrank)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## Why GNU GPLv3?
