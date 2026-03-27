@@ -9,7 +9,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [CyberZHG/toolbox](https://github.com/CyberZHG/toolbox)<br>
 2. ⭐ Starred [nexus-aissam/imgkit](https://github.com/nexus-aissam/imgkit)<br>
-3. ⬆️ Pushed undefined commit(s) to [Herobone/Herobone](https://github.com/Herobone/Herobone)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herobone&theme=github_dark)
