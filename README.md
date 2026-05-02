@@ -8,7 +8,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [aptabase/aptabase](https://github.com/aptabase/aptabase)<br>
-2. ⭐ Starred [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herobone&theme=github_dark)
