@@ -7,7 +7,8 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 - ⚡ Fun fact: Don't look for fancy colors in my projects. I'm colorblind
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [casey/just](https://github.com/casey/just)<br>
+1. ⭐ Starred [Finsys/dockhand](https://github.com/Finsys/dockhand)<br>
+2. ⭐ Starred [casey/just](https://github.com/casey/just)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herobone&theme=github_dark)
