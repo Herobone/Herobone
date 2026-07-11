@@ -8,7 +8,6 @@ I'm Julius, a student from beautiful Bavaria in Germany.
 ## My recent activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [Finsys/hawser](https://github.com/Finsys/hawser)<br>
-2. ⭐ Starred [Finsys/dockhand](https://github.com/Finsys/dockhand)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Herobone&theme=github_dark)
